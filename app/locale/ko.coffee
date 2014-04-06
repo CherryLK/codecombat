@@ -239,11 +239,11 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     editor_config_behaviors_description: "괄호, 인용부호, 따옴표 자동 완성."
 #    loading_ready: "Ready!"
 #    tip_insert_positions: "Shift+Click a point on the map to insert it into the spell editor."
-#    tip_toggle_play: "Toggle play/paused with Ctrl+P."
+    tip_toggle_play: "플레이/일시정지 전환 단축키 : Ctrl+P"
 #    tip_scrub_shortcut: "Ctrl+[ and Ctrl+] rewind and fast-forward."
 #    tip_guide_exists: "Click the guide at the top of the page for useful info."
-#    tip_open_source: "CodeCombat is 100% open source!"
-#    tip_beta_launch: "CodeCombat launched its beta in October, 2013."
+    tip_open_source: "CodeCombat 은 100% 오픈 소스입니다.!"
+    tip_beta_launch: "CodeCombat 의 beta 서비스는 2013년 10월에 시작되었습니다."
 #    tip_js_beginning: "JavaScript is just the beginning."
 #    tip_autocast_setting: "Adjust autocast settings by clicking the gear on the cast button."
 #    think_solution: "Think of the solution, not the problem."
@@ -554,7 +554,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     counselor_title_description: "(전문가/선생)"
 
 #  ladder:
-#    please_login: "Please log in first before playing a ladder game."
+    please_login: "ladder 게임을 하시려면 우선 로그인을 하여주세요."
 #    my_matches: "My Matches"
 #    simulate: "Simulate"
 #    simulation_explanation: "By simulating games you can get your game ranked faster!"
